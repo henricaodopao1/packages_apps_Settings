@@ -121,6 +121,7 @@ android_library {
         "vendor.lineage.fastcharge-V1.0-java",
         "SettingsGoogle-lib",
         "SystemUISharedLib",
+        "androidx.dynamicanimation_dynamicanimation",
     ],
 
     plugins: ["androidx.room_room-compiler-plugin"],
