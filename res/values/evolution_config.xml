@@ -36,6 +36,16 @@
     <string name="config_batteryDesignCapacityNode"></string>
     <string name="config_batteryChargeCycles"></string>
 
+<<<<<<< HEAD:res/values/evolution_config.xml
     <!-- Whether to show custom screen resolution settings -->
     <bool name="config_show_custom_screen_resolution_switch">true</bool>
+=======
+    <!-- Whether to show min/max refresh rate in display settings -->
+    <bool name="config_show_refresh_rate_controls">false</bool>
+    <bool name="config_supports_dynamic_refresh_rate_controls">true</bool>
+
+     <!-- xdUI Base Layout -->
+    <color name="homepage_blaze_background">#536dfe</color>
+    <color name="xd_background1">@android:color/system_neutral1_50</color>
+>>>>>>> 67bfcda3e4 (Settings: import xdroid-OSS settings base layout):res/values/blaze_configs.xml
 </resources>
